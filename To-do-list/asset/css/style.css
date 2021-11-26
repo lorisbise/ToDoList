@@ -1,0 +1,25 @@
+a{
+  margin: 0 auto;
+}
+#inputIn{
+  margin-top: 20px;
+  margin-bottom: 20px;
+  width: 600px;
+  height: 50px;
+  border-style: ridge;
+
+}
+h3{
+  display: flex: 1 1 auto;;
+}
+li{
+  text-align: left;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+
+}
+ul {
+
+    list-style-type: none;
+}
